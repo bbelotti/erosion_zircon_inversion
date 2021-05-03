@@ -1,10 +1,7 @@
-Master's Thesis: Zircon ages from suspended load as tracers for the inversion of spatio-temporal variability of erosion rates by an Alpine glacier.
-
-Bruno Belotti - Master's thesis - UNIL 2021
+## Master's Thesis: Zircon ages from suspended load as tracers for the inversion of spatio-temporal variability of erosion rates by an Alpine glacier.
+### Bruno Belotti - Master's thesis - UNIL 2021
 
 Contents of this repository are listed and described below:
-
-FILE:                                     DESCRIPTION:
 
 - Code_gorner-nonlin (folder):            Matlab code for the inversion of zircon ages, 
                                           from: De Doncker, F., Herman, F., & Fox, M. (2020). Inver-
