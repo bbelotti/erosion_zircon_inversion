@@ -6,15 +6,17 @@ Contents of this repository are listed and described below:
 
 FILE:                                     DESCRIPTION:
 
-- Code_gorner-nonlin (folder):             Matlab code for the inversion of zircon ages, modified
+- Code_gorner-nonlin (folder):            Matlab code for the inversion of zircon ages, 
                                           from: De Doncker, F., Herman, F., & Fox, M. (2020). Inver-
                                           sion of provenance data and sediment load into spatially
                                           varying  erosion  rates. Earth Surface Processes and
                                           Landforms, 45(15), 3879–3901;
 
-- LA-ICPMS (folder):                       Results of LA-ICPMS geochronology on zircon grains;
+- LA-ICPMS (folder):                      Results of LA-ICPMS geochronology on zircon grains. A self-implemented
+                                          code for the plotting of geochronology results (age signatures and concordia diagrams)
+                                          is also available;
 
-- Additional_data (folder):                Contains additional data used for the thesis:
+- Additional_data (folder):               Contains additional data used for the analysis and interpretation of my thesis' results:
                                           - 'Chemical_Final.xlsx' are the results of Zr concentration
                                           and majors analyses on bedrock samples (for zircon fertility);
                                           - 'rockeval_gornergletscher_2020.xlsx' are Total Organic
