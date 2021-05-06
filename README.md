@@ -4,11 +4,11 @@
 
 Contents of this repository are listed and described below:
 
-* **Code_gorner-nonlin (folder):**            Matlab code for the inversion of zircon ages, from: [De Doncker, F., Herman, F., & Fox, M. (2020). Inver-sion of provenance data and sediment load into spatially varying  erosion  rates. Earth Surface Processes and Landforms, 45(15), 3879–3901](https://doi.org/10.1002/esp.5008);
+* **Code_gorner-nonlin (folder):** Matlab code for the inversion of zircon ages, from: [De Doncker, F., Herman, F., & Fox, M. (2020). Inver-sion of provenance data and sediment load into spatially varying  erosion  rates. Earth Surface Processes and Landforms, 45(15), 3879–3901](https://doi.org/10.1002/esp.5008), adjusted to my data. The folder contains all files necessary to reproduce my thesis' results;
 
-* **LA-ICPMS (folder):**                      Results of LA-ICPMS geochronology on zircon grains. A self-implemented code for the plotting of geochronology results (age signatures and concordia diagrams) is also available;
+* **LA-ICPMS (folder):** Results of LA-ICPMS geochronology on zircon grains. I also made available the self-implemented code I used for the plotting of geochronology results (age signatures and concordia diagrams);
 
-* **Additional_data (folder):**               Contains additional data used for the analysis and interpretation of my thesis' results:
+* **Additional_data (folder):** Contains additional data used for the analysis and interpretation of my thesis' results:
   * 'Chemical_Final.xlsx' are the results of Zr concentration and majors analyses on bedrock samples (for zircon fertility);
   * 'rockeval_gornergletscher_2020.xlsx' are Total Organic Carbon (TOC) concentrations analyses;
   * 'Sample_list_and_lithology.xlsx' contains information on bedrock, sand and water samples used for the thesis (such as weight, number of extracted zircons, interpretation of bedrock geologies etc.;
