@@ -1,5 +1,5 @@
 GORNER SAMPLES AND RESPECTIVE LASER ABLATION identifiers (IDs). BRUNO BELOTTI, UNIL 2021.
-SUMMARY OF ABLATION SPOT IDs (LA-ICPMS FROM RESULTS) AND THEIR ORIGINAL SAMPLES.
+SUMMARY OF ABLATION SPOT IDs (FROM LA-ICPMS RESULTS) AND THEIR ORIGINAL SAMPLES.
 
 See Bruno Belotti's master's thesis (UNIL-2021) for further info about sampling sites and strategies.
 ---------------------------------------------------------------------------------
