@@ -4,21 +4,22 @@ SUMMARY OF ABLATION SPOT IDs (FROM LA-ICPMS RESULTS) AND THEIR ORIGINAL SAMPLES.
 See Bruno Belotti's master's thesis (UNIL-2021) for further info about sampling sites and strategies.
 ---------------------------------------------------------------------------------
 All samples come from the Gornergletscher area, VS, Switzerland:
-GR = bedrock sample;
-GS = deposited sediment sample (detrital from sand);
-GW = suspended sediment sample (detrital from water);
+GR = bedrock samples (are thought to comprehensively represent subglacial geology);
+GS = deposited sediment samples (detrital from riverbanks);
+GW = suspended sediment samples (detrital from water);
 ---------------------------------------------------------------------------------
-Laser ablation results are datasets where each ablation spot has a unique code (ID).
-These codes are under the form 'jn13a05' where:
+Laser ablation results are datasets where each ablation spot has a unique ID.
+These IDs are under the form 'jn13a05' where:
 jn = month;
 13 = day;
-a  = ablation series (each one usually contains 10 ablation spots and 10 standards);
+a  = ablation series (each series usually contains 10 ablation spots and 10 standards);
 05 = ablation spot # (numbers 05-14 of each series).
 
+All ablations were carried out during 4 days: Jan 13, Jan 14, Mar 04, Mar 11.
 Note that, in cathodoluminescence images, grains with ablation spots (red circles) which are not
-matched with a ID were NOT ablated (often because the grain was ripped off from the epoxy mount
+matched with an ID were NOT ablated (often because the grain was ripped off from the epoxy mount
 during carbon uncoating).
-Each grain's unique identifier is: 'SAMPLE CODE + ICPMS NAME' --> some grains have >1 spot! (but
+Each grain's unique identifier is: 'SAMPLE ID + ICPMS NAME' --> some grains have >1 spot! (but
 only for bedrock samples from days jn13 and jn14).
 ---------------------------------------------------------------------------------
 
