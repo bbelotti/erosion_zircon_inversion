@@ -4,7 +4,7 @@
 
 Contents of this repository are listed and described below:
 
-* **Code_gorner-nonlin (folder):** Matlab code for the inversion of zircon ages, from: [De Doncker, F., Herman, F., & Fox, M. (2020). Inver-sion of provenance data and sediment load into spatially varying  erosion  rates. Earth Surface Processes and Landforms, 45(15), 3879–3901](https://doi.org/10.1002/esp.5008), adjusted to my data. The folder contains all files necessary to reproduce my thesis' results;
+* **Code_gorner-nonlin (folder):** Matlab code for the inversion of zircon ages, from: [De Doncker, F., Herman, F., & Fox, M. (2020). Inversion of provenance data and sediment load into spatially varying  erosion  rates. Earth Surface Processes and Landforms, 45(15), 3879–3901](https://doi.org/10.1002/esp.5008), adjusted to my data. The folder contains all files necessary to reproduce my thesis' results;
 
 * **LA-ICPMS (folder):** Results of LA-ICPMS geochronology on zircon grains. I also made available the self-implemented code I used for the plotting of geochronology results (age signatures and concordia diagrams). Contents of this folder are listed below:
   * **'Plotting_geochronology_results.m'** Self-written code for the visualization of U-Pb geochronology results. Plots age signatures and concordia diagrams;
