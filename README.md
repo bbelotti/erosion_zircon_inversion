@@ -1,4 +1,4 @@
-## _Zircon ages from suspended load as tracers for the inversion of spatio-temporal variability of erosion rates by an Alpine glacier._
+## _Zircon ages from suspended load as tracers for the inversion of subglacial erosion rates._
 ### Bruno Belotti - Master's thesis - UNIL GSE 2021
 
 
