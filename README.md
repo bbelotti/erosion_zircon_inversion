@@ -1,6 +1,6 @@
 ## _Zircon ages from suspended load as tracers for the inversion of subglacial erosion rates._
 ### Bruno Belotti - Master's thesis - UNIL GSE 2021
-
+(This work is NOT peer reviewed and is not published. The original thesis can be found on the [University of Lausanne repository](https://igd.unil.ch/memoires/memoires/1856))
 
 Contents of this repository are listed and described below:
 
